@@ -1,2 +1,2 @@
-# GMS-Model-Files
-Global Metrology System Controls model files
+# SUM-Model-Files
+Summit Facility model files
